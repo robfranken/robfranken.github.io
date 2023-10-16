@@ -83,12 +83,14 @@ author:
   name             : "Rob Franken"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Nijmegen, the Netherlands"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=9515CSsAAAAJ&hl=nl&oi=ao"
   email            : "rob.franken@ru.nl"
-  researchgate     : "https://www.researchgate.net/profile/Rob-Franken-2"
+  github           : "robfranken"
+  googlescholar    : "https://scholar.google.com/citations?user=9515CSsAAAAJ&hl=nl&oi=ao"
+  linkedin         : "rob-franken-5199b51a1"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +98,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "robfranken"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/rob-franken-5199b51a1/"
-  orcid            : "http://orcid.org/0000-0002-9715-617X"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : 
