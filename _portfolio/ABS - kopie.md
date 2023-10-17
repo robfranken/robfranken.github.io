@@ -21,6 +21,6 @@ The data collected for this study, along with the codebook, are archived on [DAN
 
 ### Reference
 
-[Franken, R., Bekhuis, H., and Tolsma, J. (2020). *Altijd Blijven Sporten 2019/2020*. DANS.](https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:189895)
+[Franken, R., Bekhuis, H., and Tolsma, J. (2020). *Altijd Blijven Sporten 2019/2020*. DANS.](https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:189895).
 
  
