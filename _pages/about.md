@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently pursuing my PhD at Radboud University with the Interuniversity Center for Social Science Theory and Methodology. My research focuses on the drivers of social networks, perceptions within social networks, and social influences on health behavior and opinion dynamics.
+I'm currently pursuing my PhD at Radboud University with the Interuniversity Center for Social Science Theory and Methodology. 
 
-For additional information, please explore my [publications](https://robfranken.github.io/publications/), access my [CV](https://robfranken.github.io/files/cv.pdf), and look forward to more updates in the future.
+My research focuses on the drivers of social networks, perceptions within social networks, and social influences on health behavior and opinion dynamics.
+
+Please explore my [publications](https://robfranken.github.io/publications/) and [posts](https://robfranken.github.io/posts/), access my [CV](https://robfranken.github.io/files/cv.pdf), and look forward to more updates in the future.
