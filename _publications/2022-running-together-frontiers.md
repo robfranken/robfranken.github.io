@@ -14,5 +14,8 @@ Using unique three-wave, individual-level panel data of more than 800 runners of
 
 [Download paper here](http://robfranken.github.io/files/fspor-04-643150.pdf)
 
-![Predicted running](/images/predicted-running.jpg){width=200}
+![Predicted running](/images/predicted-running.jpg)
 
+<div class="blogimage" style="float:right;width:300px;padding:10px 0 10px 10px;">
+    <img src="./images/predicted-running.jpg"/>
+</div>
