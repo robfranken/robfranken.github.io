@@ -7,7 +7,7 @@ main:
     url: /year-archive/
     
   - title: "Data & code"
-    url: /portfolio/
+    url: /data/
     
   - title: "CV"
     url: /files/cv.pdf
