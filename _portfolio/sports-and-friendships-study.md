@@ -1,7 +1,7 @@
 ---
 title: "The 'Sports and Friendships' Study"
 excerpt: "This study was conducted between 2021-2023 with the aim of understanding the development of multiple dimensions of students' social relations throughout student life, and its consequences for their sport participation and academic experiences and outcomes."
-collection: data
+collection: portfolio
 tags:
 - Survey
 - Egocentric networks

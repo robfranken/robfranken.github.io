@@ -1,7 +1,7 @@
 ---
 title: "Always Stay Active!"
 excerpt: "In this unique longitudinal panel study, we investigated the dynamic interplay between social sports networks, sporting motivations, and sports outcomes (training consistency and goal achievement) among first-time participants of the 2019 edition of the 7K or 15K "Seven Hills Run."
-collection: data
+collection: portfolio
 tags:
 - Running
 - Social network

@@ -1,7 +1,7 @@
 ---
 title: "Online social network experiment"
 excerpt: "We designed a social network intervention in the online fitness and coaching platform Final Surge with the goal to examine the effects of (online) social support and social comparison as strategies for motivating sports behavior." 
-collection: data
+collection: portfolio
 tags:
 - Experiment
 - Social influence
