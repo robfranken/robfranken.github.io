@@ -2,6 +2,12 @@
 title: "The 'Sports and Friendships' Study"
 excerpt: "The 'Sports and Friendships' study was conducted between 2021-2023 with the aim of understanding the development of multiple dimensions of students' social relations throughout student life, and its consequences for their sport participation and academic experiences and outcomes. <br/><img src='/images/sports-and-friendships/net2.jpg'>"
 collection: data
+tags:
+- Egocentric networks
+- Name generators
+- Student life
+- Sports participation
+
 ---
 
 The 'Sports and Friendships' follows two cohorts of students at a research university and university of applied science of a major Dutch city (Cohort I: N = 92, Cohort II: N = 655). We mapped the important transitions they experienced (e.g., leaving the parental home), the accompanying changes in their egocentric networks (e.g., newly formed ties), and employed multiple methods to map their sports activities (i.e., survey self-reports, behavior trace data).
