@@ -10,7 +10,8 @@ tags:
 
 ---
 
-The ABS ("Altijd Blijven Sporten") ["Always Stay Active"] panel consisted of more than 800 individuals who had registered to participate in the 2019 edition of the 7K or 15K ["Seven Hills Run"](https://www.nnzevenheuvelenloop.nl/) (Nijmegen, The Netherlands) for the first time. 
+
+The ABS ("Altijd Blijven Sporten") or "Always Stay Active" panel consisted of more than 800 individuals who had registered to participate in the 2019 edition of the 7K or 15K ["Seven Hills Run"](https://www.nnzevenheuvelenloop.nl/) (Nijmegen, The Netherlands) for the first time. 
 
 The original aim of this study was to test the extent to which two different motivational stimuli affected runners' (1) training frequency and (2) likelihood to appear at the start of the event; (3) self-declared motivations for running activities; and (4) the likelihood to register for subsequent running events. 
 
@@ -22,5 +23,6 @@ The data collected for this study, along with the codebook, are archived on [DAN
 ### Reference
 
 [Franken, R., Bekhuis, H., and Tolsma, J. (2020). *Altijd Blijven Sporten 2019/2020*. DANS.](https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:189895)
+
 
  
