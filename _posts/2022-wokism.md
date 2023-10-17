@@ -1,7 +1,9 @@
 ---
 title: 'Wokism a threat to democracy?'
-date: 2012-08-14
-permalink: /posts/2022/10/do-students-consider-wokeism-a-danger-to-democracy/
+author: 'Franken, Rob; Tolsma, Jochem'
+date: 2022-10-7
+collection: posts
+permalink: /post/do-students-consider-wokeism-a-danger-to-democracy/
 tags:
   - polarization
   - politics
