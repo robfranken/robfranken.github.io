@@ -3,9 +3,17 @@ main:
 
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "Posts"
+    url: /posts/
+    
+  - "Data & code"
+    url: /code/
+    
   - title: "CV"
     url: /files/cv.pdf
+    
+    
    
 
 #  - title: "Talks"
