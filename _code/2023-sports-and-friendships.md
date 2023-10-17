@@ -4,7 +4,7 @@ date: "2023-07-27"
 permalink: /code/sports-and-friendships
 tags:
 - egocentric networks
-- name geenrators
+- name generators
 - student life
 - Sports participation
 
