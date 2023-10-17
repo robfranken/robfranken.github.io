@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-![Surving astronaut](/images/astro2.jpg){: .align-right width = "300px"}
+![Surving astronaut](/images/astro2.jpg){: .align-right width = "100px"}
 
 I'm currently pursuing my PhD at Radboud University with the Interuniversity Center for Social Science Theory and Methodology. My research focuses on the drivers of social networks, perceptions within social networks, and social influences on health behavior and opinion dynamics.
 
