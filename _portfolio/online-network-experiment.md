@@ -25,6 +25,3 @@ We developed an automated web tool to facilitate experimentation within the Fina
 ### Reference
 
 [Franken, R., Bekhuis, H., and Tolsma, J. (2023, January 6). *Stimulating sport behavior via an online social network: a real-life experiment*. OSF.](https://doi.org/10.17605/OSF.IO/WQTFM)
-
-
- 
