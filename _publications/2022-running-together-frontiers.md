@@ -5,7 +5,6 @@ collection: publications
 permalink: /publication/2022-running-together-frontiers
 date: 2022-03-16
 venue: 'Frontiers in Sports and Active Living'
-paperurl: 'https://www.frontiersin.org/articles/10.3389/fspor.2022.643150/full'
 
 ---
 
