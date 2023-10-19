@@ -15,3 +15,7 @@ We constructed a longitudinal dataset of complete networks and behavior over 11 
 [Download paper here](http://robfranken.github.io/files/1-s2.0-S0378873322000909.pdf)
 
 ![Strava club members' running and kudos-friendships](/images/kudos-net.jpg)
+
+### Citation
+
+[Franken, R., Bekhuis, H., and Tolsma, J. (2023). *Kudos make you run! How runners influence each other on the online social network Strava*. Social Networks.](https://www.sciencedirect.com/science/article/pii/S0378873322000909)

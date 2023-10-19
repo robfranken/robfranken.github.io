@@ -15,3 +15,7 @@ Using unique three-wave, individual-level panel data of more than 800 runners of
 [Download paper here](http://robfranken.github.io/files/fspor-04-643150.pdf)
 
 ![Predicted running](/images/predicted-running.jpg)
+
+### Citation
+
+[Franken, R., Bekhuis, H., and Tolsma, J. (2023). *Running Together: How Sports Partners Keep You Running*. Frontiers in Sports and Active Living.](https://www.frontiersin.org/articles/10.3389/fspor.2022.643150/full)
