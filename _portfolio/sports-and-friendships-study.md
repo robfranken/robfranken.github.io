@@ -18,9 +18,6 @@ An additional module was included in which alters of a specific group of respond
 The publicly available data-sets, along with a codebook, have been archived on [DANS SSH](https://ssh.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/SS/GODKDR).
 
 
-![](/images/sports-and-friendships/net2.jpg)
-
-
 ### Reference
 
 [Franken, R., Bekhuis, H., and Tolsma, J. (2023). *The Sports and Friendships Study 2021-2023*. DANS Data Station Social Sciences and Humanities, V1.](https://ssh.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/SS/GODKDR)
