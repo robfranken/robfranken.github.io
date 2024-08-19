@@ -19,4 +19,4 @@ respondent](/images/dce.png)
 
 ### Citation
 
-[Franken, R., Bekhuis, H., and Tolsma, J. (2024). *Choosing your sports partners: Assessing selection preferences through observational and experimental studies.* Sociological Forum.](https://doi.org/10.1080/02701367.2024.2389907)
+[Franken, R., Bekhuis, H., and Tolsma, J. (2024). *Choosing your sports partners: Assessing selection preferences through observational and experimental studies.* Research Quarterly for Exercise and Sport.](https://doi.org/10.1080/02701367.2024.2389907)
