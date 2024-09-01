@@ -12,7 +12,7 @@ Who do we choose to start and keep exercising with? We tackled this question by 
 
 Our findings reveal that emotional closeness, rather than skill similarity, is a key factor in maintaining sports partnerships over time. Interestingly, the type of sports setting—be it sports clubs, informal groups, commercial gyms, or unorganized settings—does not significantly affect the stability of these partnerships. People tend to prefer partners who focus on the social aspects of sports. However, as individuals become more active, they find sports partners who promote social comparison and possess sports knowledge more attractive. While preferences for sports partners are generally similar across genders, women are less inclined toward partners who emphasize social comparison compared to men. To learn more about how these insights can inform strategies to encourage sports participation for everyone, check out the full paper!
 
-[Download paper here](http://robfranken.github.io/files/Choosing Your Sports Partners  Assessing Selection Preferences Through Observational and Experimental Studies.pdf)
+[Download paper here](/files/choosing-your-sports-partners.pdf)
 
 ![CAPI interface of the survey experiment used by a hypothetical
 respondent](/images/dce.png)
