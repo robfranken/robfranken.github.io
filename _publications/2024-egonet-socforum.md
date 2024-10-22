@@ -1,5 +1,5 @@
 ---
-title: "The unstable social networks of students: where does dissimilarity drive tie dissolution?"
+title: "The unstable social networks of students: Where does dissimilarity drive tie dissolution?"
 author: 'Franken, Rob; Bekhuis, Hidde; Tolsma, Jochem'
 collection: publications
 permalink: /publication/2024-egonet-socforum
