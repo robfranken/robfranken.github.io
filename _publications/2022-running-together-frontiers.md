@@ -18,4 +18,4 @@ Using unique three-wave, individual-level panel data of more than 800 runners of
 
 ### Citation
 
-[Franken, R., Bekhuis, H., and Tolsma, J. (2023). *Running Together: How Sports Partners Keep You Running*. Frontiers in Sports and Active Living.](https://www.frontiersin.org/articles/10.3389/fspor.2022.643150/full)
+[Franken, R., Bekhuis, H., and Tolsma, J. (2023). Running Together: How Sports Partners Keep You Running. *Frontiers in Sports and Active Living*, *4*, 643150.](https://www.frontiersin.org/articles/10.3389/fspor.2022.643150/full)

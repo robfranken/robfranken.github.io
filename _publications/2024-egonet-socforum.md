@@ -22,6 +22,6 @@ We analyzed ego-network data from Dutch students participating in the ['Sports &
 
 ### Citation
 
-[Franken, R., Bekhuis, H., and Tolsma, J. (2024). *The unstable social networks of students: Where does dissimilarity drive tie dissolution?* in Sociological Forum.](https://doi.org/10.1111/socf.13034)
+[Franken, R., Bekhuis, H., and Tolsma, J. (2024). The unstable social networks of students: Where does dissimilarity drive tie dissolution? In *Sociological Forum*.](https://doi.org/10.1111/socf.13034)
 
 

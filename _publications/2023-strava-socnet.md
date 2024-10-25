@@ -18,4 +18,4 @@ We constructed a longitudinal dataset of complete networks and behavior over 11 
 
 ### Citation
 
-[Franken, R., Bekhuis, H., and Tolsma, J. (2023). *Kudos make you run! How runners influence each other on the online social network Strava*. Social Networks.](https://www.sciencedirect.com/science/article/pii/S0378873322000909)
+[Franken, R., Bekhuis, H., and Tolsma, J. (2023). Kudos make you run! How runners influence each other on the online social network Strava. *Social Networks*, *72*, 151-164.](https://www.sciencedirect.com/science/article/pii/S0378873322000909)
