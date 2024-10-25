@@ -20,4 +20,4 @@ Timely and honest communication helps to mitigate the distress of deciding again
 
 ### Citation
 
-[Garvelink, M.M., Groen-van de Ven, L., Smits, C., Franken, R., Dassen-Vernooij, M., and Légaré, F. (2019). *Shared Decision Making About Housing Transitions for Persons With Dementia: A Four-Case Care Network Perspective.* The Gerontologist.](https://academic.oup.com/gerontologist/article/59/5/822/5051641)
+[Garvelink, M.M., Groen-van de Ven, L., Smits, C., Franken, R., Dassen-Vernooij, M., and Légaré, F. (2019). Shared Decision Making About Housing Transitions for Persons With Dementia: A Four-Case Care Network Perspective. *The Gerontologist*, *59*(5), 822-834.](https://academic.oup.com/gerontologist/article/59/5/822/5051641)
