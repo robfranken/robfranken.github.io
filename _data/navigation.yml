@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "Posts"
+    url: /year-archive/
+    
+  - title: "Data & code"
+    url: /portfolio/
+    
+  - title: "CV"
+    url: /files/cv.pdf
