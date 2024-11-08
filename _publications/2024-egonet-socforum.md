@@ -16,7 +16,7 @@ We investigate the impact of ego-alter dissimilarity on the stability of friends
 We analyzed ego-network data from Dutch students participating in the ['Sports & Friendships' study](https://ssh.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/SS/GODKDR) to explore whether dyadic dissimilarity on key identity markers—age, gender, and educational level—is associated with tie dissolution. We show that, generally, dissimilarity does not drive tie dissolution, at least not consistently across demographic dimensions and relationship layers. However, age differences do consistently lead to the dissolution of ties. We found that the better embedded alters are within an ego’s network, the more stable their ties. Specifically, relational embeddedness (emotional closeness and role overlap) primarily stabilizes confidant and friendship relations, while structural embeddedness (alters having ties to ego’s other alters) primarily stabilizes study relations. The weaker relational embeddedness of differently-aged alters partly explains their faster dissolution. For a deeper dive into these dynamics, read the full paper!
 
 
-[Download paper here]
+[Download paper here](/files/Sociological Forum - 2024 - Franken - The unstable social networks of students.pdf)
 
 ![Overlap of social roles of alters observed in students’ multiplex social networks](/images/venn.png)
 
