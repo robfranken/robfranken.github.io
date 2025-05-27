@@ -5,6 +5,8 @@ collection: publications
 permalink: /publication/2019-shared-decision-making-gerontologist
 date: 2019-09-17
 venue: 'The Gerontologist'
+paperurl: http://robfranken.github.io/files/gny073.pdf'
+citation: 'Garvelink, M.M., Groen-van de Ven, L., Smits, C., Franken, R., Dassen-Vernooij, M., and Légaré, F. (2019). &quot;Shared Decision Making About Housing Transitions for Persons With Dementia: A Four-Case Care Network Perspective.&quot; <i>The Gerontologist</i>. 59(5), 822-834.'
 
 ---
 
@@ -14,10 +16,4 @@ We performed a qualitative data analysis to assess the extent to which housing a
 
 Timely and honest communication helps to mitigate the distress of deciding against patient preferences, as could advance care planning about future housing transitions.
 
-[Download paper here](http://robfranken.github.io/files/gny073.pdf)
-
 ![Gerontologist](/images/coverfig.jpeg)
-
-### Citation
-
-[Garvelink, M.M., Groen-van de Ven, L., Smits, C., Franken, R., Dassen-Vernooij, M., and Légaré, F. (2019). Shared Decision Making About Housing Transitions for Persons With Dementia: A Four-Case Care Network Perspective. *The Gerontologist*, *59*(5), 822-834.](https://academic.oup.com/gerontologist/article/59/5/822/5051641)
