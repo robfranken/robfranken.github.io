@@ -8,7 +8,7 @@ date: 2024-08-04
 venue: 'Research Quarterly for Exercise and Sport'
 paperurl: 'http://robfranken.github.io/files/choosing-your-sports-partners.pdf'
 bibtexurl: 'http://robfranken.github.io/files/choosing-your-sports-partners.bib'
-citation: 'Franken, R., Bekhuis, H., and Tolsma, J. (2024). &quot;Choosing your sports partners: Assessing selection preferences through observational and experimental studies&quot; <i>Research Quarterly for Exercise and Sport</i>. 96 (2), 233-247.'
+citation: 'Franken, R., Bekhuis, H., and Tolsma, J. (2024). &quot;Choosing your sports partners: Assessing selection preferences through observational and experimental studies&quot; <i>Research Quarterly for Exercise and Sport</i>. 96(2), 233-247.'
 
 ---
 
