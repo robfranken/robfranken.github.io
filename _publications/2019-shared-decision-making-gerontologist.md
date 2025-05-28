@@ -1,5 +1,5 @@
 ---
-title: "Shared decision making about housing transitions for persons with dementia: A four-case care network perspective"
+title: "Shared decision making about housing transitions for persons with dementia"
 author: 'Garvelink, Mirjam; Groen-van de Ven, Leontine; Smits, Carolien; Franken, Rob; Dassen-Vernooij, Myrra; Légaré, France'
 collection: publications
 category: manuscripts
