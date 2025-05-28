@@ -8,7 +8,7 @@ date: 2022-03-16
 venue: 'Frontiers in Sports and Active Living'
 paperurl: 'http://robfranken.github.io/files/fspor-04-643150.pdf'
 bibtexurl: 'http://robfranken.github.io/files/fspor-04-643150.bib'
-citation: 'Franken, R., Bekhuis, H., and Tolsma, J. (2023). &quot;Running Together: How Sports Partners Keep You Running.&quot; <i>Frontiers in Sports and Active Living</i>. 4, 643150.'
+citation: 'Franken, R., Bekhuis, H., and Tolsma, J. (2022). &quot;Running Together: How Sports Partners Keep You Running.&quot; <i>Frontiers in Sports and Active Living</i>. 4, 643150.'
 
 ---
 
