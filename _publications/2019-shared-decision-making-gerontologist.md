@@ -7,6 +7,7 @@ permalink: /publication/2019-shared-decision-making-gerontologist
 date: 2019-09-17
 venue: 'The Gerontologist'
 paperurl: 'http://robfranken.github.io/files/gny073.pdf'
+bibtexurl: 'http://robfranken.github.io/files/gny073.bib'
 citation: 'Garvelink, M.M., Groen-van de Ven, L., Smits, C., Franken, R., Dassen-Vernooij, M., and Légaré, F. (2019). &quot;Shared Decision Making About Housing Transitions for Persons With Dementia: A Four-Case Care Network Perspective.&quot; <i>The Gerontologist</i>. 59(5), 822-834.'
 
 ---
