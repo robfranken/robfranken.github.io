@@ -6,8 +6,8 @@ category: other
 permalink: /publication/2023-strava-sv
 date: 2023-01-18
 venue: 'Sociale Vraagstukken'
-paperurl: 'http://robfranken.github.io/files/wokism.pdf'
-bibtexurl: 'http://robfranken.github.io/files/wokism.bib'
+paperurl: 'http://robfranken.github.io/files/online_networks.pdf'
+bibtexurl: 'http://robfranken.github.io/files/online_networks.bib'
 citation: 'Franken, R., Bekhuis, H., and Tolsma, J. (2023). &quot;Promoting sustained sports participation through online social networks - Does it work?&quot; <i>Sociale Vraagstukken</i>.'
 
 ---
