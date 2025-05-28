@@ -5,7 +5,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-egonet-socforum
 date: 2024-10-22
-venue: 'Social Networks'
+venue: 'Sociological Forum'
 paperurl: 'http://robfranken.github.io/files/Sociological Forum - 2024 - Franken - The unstable social networks of students.pdf'
 bibtexurl: 'http://robfranken.github.io/files/Sociological Forum - 2024 - Franken - The unstable social networks of students.bib'
 citation: 'Franken, R., Bekhuis, H., and Tolsma, J. (2024). &quot;The unstable social networks of students: Where does dissimilarity drive tie dissolution?&quot; <i>Sociological Forum</i>. 40 (1), 95-118.'
